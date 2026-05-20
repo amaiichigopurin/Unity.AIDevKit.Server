@@ -1,2 +1,217 @@
+// OpenAI: LLMs
+gpt-4.1-nano
+gpt-5
+gpt-5-mini
 
-asdasdasdasdasdasd
+// OpenAI: Realtime LLMs
+gpt-realtime
+gpt-realtime-mini
+
+// OpenAI: Image Models
+gpt-image-1
+gpt-image-1-mini
+
+// OpenAI: TTS Models
+tts-1
+tts-1-hd
+
+// OpenAI: STT Models
+whisper-1
+gpt-4o-transcribe
+gpt-4o-mini-transcribe
+
+// OpenAI: Embedding Models
+text-embedding-ada-002
+text-embedding-3-small
+
+// OpenAI: Moderation Models
+omni-moderation-latest
+
+// OpenAI: Video Models
+sora-2
+sora-2-pro
+
+// ElevenLabs: TTS Models
+eleven_multilingual_v2
+eleven_flash_v2_5
+eleven_turbo_v2_5
+
+// ElevenLabs: Voice Change Models
+eleven_english_sts_v2
+eleven_multilingual_sts_v2
+
+// ElevenLabs: STT Models
+scribe_v1
+
+// ElevenLabs: Sound Effects Models
+eleven_soundfx
+
+// ElevenLabs: Music Models
+music_v1
+
+// Google LLMs
+models/gemini-2.0-flash
+models/gemini-2.5-flash-lite
+
+// Google Image Models
+models/gemini-2.0-flash-exp-image-generation
+models/imagen-4.0-generate-001
+
+// Google TTS Models
+models/gemini-2.5-flash-preview-tts
+
+// Google STT Models
+
+// Google Embedding Models
+models/embedding-001
+
+// Google Video Models
+models/veo-3.0-generate-001
+models/veo-3.0-fast-generate-001
+models/veo-3.1-generate-preview
+models/veo-3.1-fast-generate-preview
+
+// Google Music Models (WebSocket)
+models/lyria-realtime-exp
+
+// OpenRouter LLMs
+anthropic/claude-opus-4
+anthropic/claude-sonnet-4.5
+relace/relace-apply-3
+qwen/qwen3-max
+deepcogito/cogito-v2.1-671b
+alpindale/goliath-120b
+nousresearch/hermes-3-llama-3.1-70b
+ai21/jamba-large-1.7
+
+// GroqCloud LLMs
+groq/compound-mini
+meta-llama/llama-prompt-guard-2-86m
+
+// Anthropic LLMs
+claude-sonnet-4-20250514
+claude-sonnet-4-5-20250929
+
+// DeepSeek LLMs
+deepseek-chat
+deepseek-reasoner
+
+// Perplexity LLMs
+sonar
+sonar-pro
+sonar-reasoning
+sonar-reasoning-pro
+sonar-deep-research
+
+// xAI LLMs
+grok-2-1212
+grok-2-vision-1212
+grok-3
+grok-3-fast
+grok-3-mini
+grok-3-mini-fast
+grok-4-0709
+grok-code-fast-1
+
+// xAI Image Models
+grok-2-image-1212
+
+// Microsoft Azure TTS Models
+azure-speech
+
+// Microsoft Azure STT Models
+azure-transcription
+azure-fast-transcription
+
+// Microsoft Azure OCR Models
+azure-document-intelligence
+azure-computer-vision-image-analysis
+
+// Mistral LLMs
+mistral-medium-latest
+
+// Mistral Embedding Models
+mistral-embed
+
+// Mistral STT Models
+voxtral-mini-transcribe-2507
+
+// Mistral OCR Models
+mistral-ocr-latest
+
+// Amazon Bedrock LLMs
+amazon.titan-text-express-v1:0:8k
+amazon.titan-text-lite-v1
+amazon.nova-premier-v1:0:mm
+amazon.nova-lite-v1:0
+mistral.mistral-large-2402-v1:0
+anthropic.claude-3-sonnet-20240229-v1:0:200k
+ai21.jamba-1-5-large-v1:0
+meta.llama4-scout-17b-instruct-v1:0
+
+// Amazon Bedrock Image Models
+amazon.titan-image-generator-v2:0
+
+// Amazon Bedrock Stability AI Image Editing Models
+stability.stable-style-transfer-v1:0
+stability.stable-image-style-guide-v1:0
+stability.stable-image-inpaint-v1:0
+stability.stable-outpaint-v1:0
+stability.stable-image-control-structure-v1:0
+stability.stable-image-erase-object-v1:0
+stability.stable-fast-upscale-v1:0
+stability.stable-image-search-recolor-v1:0
+stability.stable-image-search-replace-v1:0
+stability.stable-conservative-upscale-v1:0
+stability.stable-image-control-sketch-v1:0
+stability.stable-image-remove-background-v1:0
+stability.stable-creative-upscale-v1:0
+
+// Amazon Polly TTS Models
+amazon.polly
+
+// Amazon Transcribe STT Models
+amazon.transcribe
+
+// AI21Labs LLMs
+jamba-large
+jamba-mini
+
+// Cohere LLMs
+command-a-reasoning-08-2025
+c4ai-aya-expanse-32b
+rerank-multilingual-v3.0
+
+// PixelLab PixelArt Models
+pixellab-bitforge
+pixellab-pixflux
+pixellab-inpaint
+pixellab-rotate
+pixellab-animate
+pixellab-tileset
+pixellab-estimate-skeleton
+
+// RetroDiffusion PixelArt Models
+rd_pro
+rd_plus
+rd_fast
+rd_tile
+animation
+
+// Stability AI Image Models
+stable-image-ultra
+stable-image-core
+stable-image-upscale-conservative
+stable-image-upscale-fast
+stable-image-upscale-creative
+stable-image-inpaint
+stable-image-outpaint
+stable-image-erase
+stable-image-search-and-replace
+stable-image-search-and-recolor
+stable-image-remove-background
+stable-image-replace-background-and-relight
+stable-image-control-sketch
+stable-image-control-structure
+stable-image-control-style
+stable-image-control-style-transfer
